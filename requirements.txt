@@ -1,3 +1,6 @@
 pandas
 numpy
 kagglehub
+matplotlib
+seaborn
+sklearn
