@@ -12,9 +12,9 @@ Transmission,A = automatic
 ,M = manual
 ,3 - 10 = Number of gears
 Fuel type,X = regular gasoline
-,Z = premium gasoline
+,Z = Electricity
 ,D = diesel
-,E = Electricity
+,E = Ethanol
 ,N = natural gas
 Fuel consumption,"City and highway fuel consumption ratings are shown in litres per 100 kilometres (L/100 km) - the combined rating (55% city, 45% hwy) is shown in L/100 km and in miles per imperial gallon (mpg)"
 CO2 emissions,the tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving
