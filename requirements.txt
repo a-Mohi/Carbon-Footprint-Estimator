@@ -3,4 +3,4 @@ numpy
 kagglehub
 matplotlib
 seaborn
-sklearn
+scikit-learn
